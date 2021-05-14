@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zerotom · 零号原子</title>
+    
+    
+    
+    <link>/posts/</link>
+    <description>Recent content in Posts on Zerotom · 零号原子</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;span&gt;&amp;copy; 2021 零号原子&lt;/span&gt;&lt;span&gt;主题由&lt;a href=&#39;https://github.com/panr/&#39;&gt;panr&lt;/a&gt;创建、由&lt;a href=&#39;https://github.com/MrCZF/&#39;&gt;MrCZF&lt;/a&gt;修改&lt;/span&gt;</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>/posts/hello/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+&gt; &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+&gt; 
+&gt; &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+&gt; 
+&gt; &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+
+
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
